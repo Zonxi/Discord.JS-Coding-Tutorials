@@ -1,0 +1,18 @@
+{
+  "name": "bot-2",
+  "version": "1.0.0",
+  "description": "Bot made by Zonxi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Zonxi",
+  "license": "ISC",
+  "dependencies": {
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.1.0",
+    "glob": "^7.1.7",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12"
+  }
+}
